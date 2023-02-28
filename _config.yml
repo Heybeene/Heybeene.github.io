@@ -1,5 +1,5 @@
 remote_theme : "mmistakes/minimal-mistakes"
-url : "heybeene.github.io"
+url : "Heybeene.github.io"
 baseurl : ""
 plugins:
   - jekyll-paginate
