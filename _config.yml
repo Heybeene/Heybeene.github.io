@@ -1,4 +1,9 @@
 remote_theme : "mmistakes/minimal-mistakes"
 url : "heybeene.github.io"
 baseurl : ""
- 
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
